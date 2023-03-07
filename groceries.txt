@@ -1,23 +1,23 @@
 SHOPPING LIST:
-Eggs
-Milk
-Sugar
-Flour
-Cereal
-Corn
-Celery
-Onions
 Bacon
-Potatoes
-Cabbage
-Corned beef
-Rice
-Soy Sauce
-Cinnamon
-Star Anise
-Cumin
-Oregano
-Thyme
 Basil
+Cabbage
+Celery
+Cereal
+Cinnamon
+Corn
+Corned beef
+Cumin
 Dill
+Eggs
+Flour
+Milk
+Onions
+Oregano
+Potatoes
+Rice
 Sage
+Soy Sauce
+Star Anise
+Sugar
+Thyme
